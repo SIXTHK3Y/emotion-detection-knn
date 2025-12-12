@@ -1,4 +1,14 @@
 # emotion-detection-knn
+
+## Dataset
+
+The dataset used for training and testing is not included in this GitHub repository due to size limitations.
+
+The full dataset is provided in the Canvas submission ZIP file.
+
+Dataset structure:
+train/ and test/ folders with emotion-labelled subfolders.
+
 Emotion detection using KNN and OpenCV
 Open Google Colab and create a new notebook.
 Upload emotion_detection.py.
